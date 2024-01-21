@@ -1,0 +1,20 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Crawls the web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantjenkins1/Web-Crawler.git"
+  },
+  "author": "Grant Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantjenkins1/Web-Crawler/issues"
+  },
+  "homepage": "https://github.com/grantjenkins1/Web-Crawler#readme"
+}
