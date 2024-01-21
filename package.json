@@ -4,8 +4,7 @@
   "description": "Crawls the web",
   "main": "index.js",
   "scripts": {
-    "start": "node main.js",
-    "test": "jest"
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grantjenkins1/Web-Crawler/issues"
   },
-  "homepage": "https://github.com/grantjenkins1/Web-Crawler#readme"
+  "homepage": "https://github.com/grantjenkins1/Web-Crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
